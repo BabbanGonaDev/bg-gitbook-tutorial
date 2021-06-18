@@ -20,7 +20,7 @@ On the account dashboard, click on "Create a space" to get started.
 
 ### Step 2:
 
-Enter the name of the space, choose a colour and then select whether to make it private or public. 
+Enter the name of the space, choose a colour and then select whether to make it private or public.
 
 ![Enter details for the documentation project.](../.gitbook/assets/image%20%283%29.png)
 
@@ -30,9 +30,5 @@ If successful, you would be redirected to the edit page of the newly created spa
 
 ![Documentation project page](../.gitbook/assets/image%20%284%29.png)
 
-Voila.... You have successfully created a space. 🎉 
-
-
-
-
+Voila.... You have successfully created a space. 🎉
 
