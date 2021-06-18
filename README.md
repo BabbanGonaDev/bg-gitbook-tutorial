@@ -4,7 +4,7 @@ description: >-
   organization.
 ---
 
-# Homepage
+# 🏡Homepage
 
 ## What is Gitbook ?
 

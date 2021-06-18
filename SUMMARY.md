@@ -1,9 +1,13 @@
 # Table of contents
 
-* [Homepage](README.md)
+* [🏡Homepage](README.md)
 
-## Tutorials
+## 📚Tutorials
 
 * [Document Creation](tutorials/document-creation.md)
 * [Github Integration](tutorials/github-integration.md)
+
+---
+
+* [Gitbook Docs](https://docs.gitbook.com/)
 
