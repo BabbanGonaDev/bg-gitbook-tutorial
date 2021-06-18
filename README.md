@@ -16,5 +16,5 @@ The essence of the usage of Gitbook for the organization is to be a source of in
 
 This documentation was compiled by the Research & Development Team.
 
-For more enquiries or questions, kindly send an email to [rehoboth.iyasele@babbangona.com](mailto:rehoboth.iyasele@babbangona.com)
+For more enquiries or questions, kindly send an email or reach out to Iyasele Rehoboth on [rehoboth.iyasele@babbangona.com](mailto:rehoboth.iyasele@babbangona.com)
 
