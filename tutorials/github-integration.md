@@ -27,6 +27,8 @@ root: ./docs/
 ```
 {% endcode %}
 
+**Thirdly:** Commit and push your changes to Github.
+
 ### Step 2:
 
 On the product dashboard, click on the "Integrations" tab and select the GitHub toggle
